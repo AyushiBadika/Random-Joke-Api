@@ -1,5 +1,5 @@
 {
-  "name": "random-image-api",
+  "name": "random-joke-api",
   "version": "1.0.0",
   "main": "index.js",
   "type": "module",
